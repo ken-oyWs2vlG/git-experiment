@@ -1,0 +1,19 @@
+{
+  "name": "git-experiment",
+  "version": "1.0.0",
+  "description": "Experimental",
+  "main": "experiment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-oyWs2vlG/git-experiment.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ken-oyWs2vlG/git-experiment/issues"
+  },
+  "homepage": "https://github.com/ken-oyWs2vlG/git-experiment#readme"
+}
