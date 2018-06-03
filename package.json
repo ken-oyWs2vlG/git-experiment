@@ -1,6 +1,6 @@
 {
   "name": "git-experiment",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "Experimental",
   "main": "experiment.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/ken-oyWs2vlG/git-experiment.git"
   },
+  "keywords": [
+    "Experimental",
+    "Shakespeare"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
