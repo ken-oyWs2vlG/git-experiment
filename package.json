@@ -1,7 +1,7 @@
 {
   "name": "git-experiment",
   "version": "2.0.1",
-  "description": "Experimental",
+  "description": "Just a test.",
   "main": "experiment.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "Experimental",
-    "Shakespeare"
+    "Shakespeare",
+    "Just a test"
   ],
   "author": "",
   "license": "MIT",
