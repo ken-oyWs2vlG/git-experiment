@@ -3,6 +3,7 @@
   "version": "2.0.1",
   "description": "Just a test.",
   "main": "experiment.js",
+  "bin": { "experiment": "experiment.js" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
